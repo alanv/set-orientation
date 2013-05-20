@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Application title displayed in Launcher. -->
+    <string name="app_name">Set Orientation</string>
+    <!-- Notification title. -->
+    <string name="orientation_set_to">Orientation set to <xliff:g id="orientation" example="Portrait">%1$s</xliff:g></string>
+    <!-- Notification text. -->
+    <string name="select_to_change">Touch to change display orientation.</string>
+    <!-- Label for the application-specific rule check box. -->
+    <string name="label_scope_app">Only apply to <xliff:g id="app_name" example="Launcher">%1$s</xliff:g></string>
+    <!-- Spoken content description for the "enabled" switch on ICS (v14) and above. -->
+    <string name="label_service_enabled">Enable orientation control</string>
+    <!-- Label for the "enabled" toggle's on state on Honeycomb (v13) and below. -->
+    <string name="state_on">ON</string>
+    <!-- Label for the "enabled" toggle's off state on Honeycomb (v13) and below. -->
+    <string name="state_off">OFF</string>
+    <!-- Orientations -->
+    <string name="disabled">Disabled</string>
+    <string name="unspecified">Default</string>
+    <string name="sensor">Automatic</string>
+    <string name="sensor_full">Automatic (full)</string>
+    <string name="landscape">Landscape</string>
+    <string name="landscape_reverse">Landscape (reverse)</string>
+    <string name="landscape_sensor">Landscape (sensor)</string>
+    <string name="portrait">Portrait</string>
+    <string name="portrait_reverse">Portrait (reverse)</string>
+    <string name="portrait_sensor">Portrait (sensor)</string>
+</resources>

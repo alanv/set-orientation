@@ -1,0 +1,5 @@
+bin/
+gen/
+*.keystore
+ant.properties
+local.properties
