@@ -1,0 +1,1 @@
+Set Orientation allows you to force your device into a particular screen orientation. Supports all orientations, which on Android 2.3 (Gingerbread) and above includes reverse (upside-down) and sensor-based orientations.
